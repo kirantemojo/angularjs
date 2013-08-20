@@ -1,4 +1,8 @@
 angularjs
 =========
 
-angular custom directives,filters
+Angular JS custom directives,filters
+
+Durective :  Select Checkbox UI Component
+
+
