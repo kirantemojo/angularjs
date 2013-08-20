@@ -3,6 +3,6 @@ angularjs
 
 Angular JS custom directives,filters
 
-Durective :  Select Checkbox UI Component
+Directive :  Select Checkbox UI Component
 
 
